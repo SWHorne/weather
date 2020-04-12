@@ -1,0 +1,11 @@
+HTML layout Looks like bootstrap)
+input fields with search button
+ajax request to openweather.org (see activities) take our promise and display data
+search button will run the ajax request using the input for city
+save the city name to localstorage AND display on the screen and make it available to use when clicked to perform another ajax request
+when reopened take last search and display
+
+5 day forcast uses bootstrap cards 
+weather icons should be returned in the api call
+use moments for time
+
